@@ -1,0 +1,107 @@
+sequences	orient	
+..........CGGACGT...	R
+.........CCGGACA....	F
+.........CCGGACC....	F
+.........CCGGACG....	F
+.........CCGGAGG....	F
+.........CCGGCGG....	R
+.........CCGGGGA....	F
+.........CCGGGGC....	F
+.........CCGGGGT....	R
+.........CCGGTGG....	R
+.........CCGGTGT....	R
+.........CCGGTTA....	F
+.........CCGGTTC....	F
+.........CCGGTTG....	R
+........ACCGGAC.....	F
+........ACCGGGG.....	F
+........TCCGCCC.....	R
+........TCCGCCG.....	R
+........TCCGCTC.....	R
+........TCCGGAC.....	R
+........TCCGGAG.....	R
+........TCCGGCA.....	F
+........TCCGGCC.....	R
+........TCCGGCG.....	R
+........TCCGGCT.....	R
+........TCCGGGA.....	R
+........TCCGGGC.....	R
+........TCCGGGG.....	R
+........TCCGGGT.....	R
+........TCCGGTA.....	R
+........TCCGGTC.....	R
+........TCCGGTG.....	R
+........TCCGGTT.....	R
+........TCCGTTC.....	R
+.......ATCCGAC......	F
+.......ATCCGCA......	F
+.......ATCCGCC......	F
+.......ATCCGCT......	R
+.......ATCCGGA......	F
+.......ATCCGGC......	F
+.......ATCCGGG......	F
+.......ATCCGGT......	R
+.......ATCCGTT......	R
+.......GTCCGGC......	R
+.......TACCGGG......	R
+.......TACCGGT......	R
+.......TCCCGGT......	R
+.......TTCCGAC......	R
+.......TTCCGCA......	R
+.......TTCCGCC......	R
+.......TTCCGCT......	R
+.......TTCCGGA......	R
+.......TTCCGGC......	R
+.......TTCCGGG......	R
+.......TTCCGGT......	R
+.......TTCCGTC......	R
+.......TTCCGTT......	R
+......AATCCGG.......	F
+......ATCCCGG.......	F
+......ATTCCGG.......	F
+......CATCCGC.......	F
+......CATCCGG.......	F
+......CATCCGT.......	R
+......CTACCGG.......	R
+......CTCCCGG.......	R
+......CTTCCGA.......	F
+......CTTCCGC.......	F
+......CTTCCGG.......	R
+......CTTCCGT.......	R
+......GATCCGG.......	R
+......GTACCGG.......	R
+......GTCCCGG.......	R
+......GTTCCGA.......	F
+......GTTCCGC.......	R
+......GTTCCGG.......	R
+......GTTCCGT.......	R
+......TATCCGG.......	R
+......TTACCGG.......	R
+......TTCCCGG.......	R
+......TTTCCGC.......	R
+......TTTCCGG.......	R
+.....AATTCCG........	F
+.....ACATCCG........	F
+.....ACTTCCG........	F
+.....AGTTCCG........	F
+.....ATATCCG........	F
+.....ATTTCCG........	F
+.....CCATCCG........	F
+.....CCTTCCG........	F
+.....CGTTCCG........	R
+.....CTTTCCG........	R
+.....GCATCCG........	R
+.....GCTTCCG........	R
+.....GGATCCG........	R
+.....GGTTCCG........	R
+.....GTTTCCG........	R
+.....TCTTCCG........	R
+.....TGTTCCG........	R
+....AACTTCC.........	F
+....CACATCC.........	F
+....CACTTCC.........	F
+....CGCTTCC.........	F
+....CGGTTCC.........	F
+....GACTTCC.........	F
+...ACTTCCT..........	F
+...CAGGAAG..........	F

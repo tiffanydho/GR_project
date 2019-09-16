@@ -1,0 +1,40 @@
+
+prior_dirs=./input/DC priors
+
+fname_path=./input/FASTA
+path_output=./output
+
+tf_name=FKH1_YPD
+individualTF=true
+tf_path=./input/TFs.txt
+
+
+back_file=./input/bkgr_3rd_order.txt
+bkgrOrderMin=0
+bkgrOrderMax=5
+bkgrOrder=3
+
+wsizeMin=3
+wsizeMax=20
+wsize=8
+
+d=0.1
+
+trials=50
+iter=10000
+outputStep=1000
+
+revflag=true
+noocflag=true
+phi_prior=0.5 0.5 0.5 0.5
+sampling_exponents=1 1 1;1 12 1;6 1 1;6 12 1;6 12 0 
+
+otherpriortype=false
+putative_priortype=-1
+
+pseudocounts_priortype=1
+pseudocounts_putative_priortype=3
+flat_prior_other_priortype=0.5
+
+precision=0.0000001
+logl=false

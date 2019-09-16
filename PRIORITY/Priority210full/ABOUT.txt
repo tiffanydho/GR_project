@@ -1,0 +1,27 @@
+      ============================================================
+      *                        PRIORITY                          *
+      *                     Version 2.1.0                        *
+      *                      1 November 2009                         *
+      *                                                          *
+      *        PRIORITY is licensed from Duke University.        *
+      *    Copyright (c) 2006-2009 by Alexander J. Hartemink.    *
+      *                   All rights reserved.                   *
+      ============================================================
+
+===== PRIORITY website =====
+
+http://www.cs.duke.edu/~amink/software/priority/
+
+
+===== License information =====
+
+Please read included LICENSE.html.
+
+
+===== Author Information =====
+
+PRIORITY was developed by Raluca Gordan under the supervision of 
+Alexander J. Hartemink in the Duke University Department of 
+Computer Science.  The algorithm was written by Leelavati Narlikar,
+Raluca Gordan, Uwe Ohler, and Alexander J. Hartemink.  More information 
+is available at the PRIORITY website above.

@@ -1,0 +1,44 @@
+mainWindowTitle=PRIORITY Version 2.1.0
+
+fileTF=Select the file with TF names:
+individualTF=Enter a TF name:
+
+pathData=Select the path for sequence files:
+pathBkgr=Select the background model file:
+pathOutput=Select the path for the output files:
+
+uniformPrior=Uniform prior
+singlePrior=Positional prior
+
+priorFilesButton=Add prior-type directory
+putativeClassCheckbox=putative prior-type
+otherClassCheckbox=allow for "other" prior-type
+
+wsizeSpinner=motif length
+trialsSpinner=trials
+iterationsSpinner=iterations per trial
+bkgrOrderSpinner=background model order
+
+start=Start
+stop=Stop
+cleartext=Clear text area
+exit=Exit
+
+wrapButton=Wrap text
+nowrapButton=Do not wrap text
+
+priorsMenu=Priors
+priorsMenuSinglePrior=Single prior-type
+priorsMenuMultiplePriors=Multiple prior-types
+
+viewMenu=View
+viewMenuViewPSSM=View best motif
+viewMenuViewPositions=View motif occurrences
+
+helpMenu=Help
+helpMenuAbout=About
+helpMenuLicense=License Information
+helpMenuReadme=README
+helpMenuTips=Tips
+
+priorFilesExtension=prior

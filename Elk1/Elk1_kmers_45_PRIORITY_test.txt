@@ -1,0 +1,4 @@
+sequences	orient	
+..........CGGACGT...	R
+.........CCGGACA....	F
+.......ATCCGAC......	F
