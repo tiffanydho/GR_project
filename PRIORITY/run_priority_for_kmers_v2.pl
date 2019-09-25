@@ -232,6 +232,7 @@ open(IN, "temp$time.best.txt");
 my @lines = <IN>;
 close(IN);
 
+# the PWM matrix to replace
 open(OUT, ">$outputfile");
 print OUT "PRIORITY motif from $kmerfile, size=$w\n";
 my @A = split(/\s+/,$lines[19]); shift(@A); shift(@A); print OUT "A: ",join(" ",@A), "\n";
